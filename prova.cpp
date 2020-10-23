@@ -4,6 +4,7 @@ int main(){
 	
 
 	cout<<"hello";
+	cout<<"mondo";
 
 
 
